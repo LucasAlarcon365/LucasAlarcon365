@@ -1,14 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:2563EB&height=170&section=header&text=LUCAS%20ALARCON&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%C2%B7%20Python%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=63&descSize=16&descColor=93C5FD" alt="Header Lucas Alarcon" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;PHP+%7C+Python+%7C+React+%7C+Next.js;Construindo%3A+BrandsCard+%40+Adaga+Digital;Estudando%3A+AWS+Lambda+%26+Serverless;Code.+Build.+Automate.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;PHP+%7C+Python+%7C+React+%7C+Next.js;Construindo%3A+BrandsCard+%40+Adaga+Digital;Estudando%3A+AWS+Lambda+%26+Serverless;Code.+Build.+Automate.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://img.shields.io/badge/status-online-2563EB?style=for-the-badge&labelColor=0A2540" alt="Status Online" />
 <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Sorocaba%2C%20SP%20%7C%20Brasil-2563EB?style=for-the-badge&labelColor=0A2540" alt="Localização" />
-
 </div>
 
 <br/>
@@ -77,7 +75,6 @@
 
 <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-2563EB?style=for-the-badge&labelColor=0A2540" alt="Em Produção" />
 <img src="https://img.shields.io/badge/tipo-projeto%20corporativo%20%2F%20privado-1E3A5F?style=for-the-badge&labelColor=0A2540" alt="Projeto Privado" />
-
 </div>
 
 <br/>
@@ -108,33 +105,23 @@ Outros projetos privados desenvolvidos na Adaga Digital:
 
 ## `05` // SYSTEM_METRICS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucasAlarcon365&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A2540&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlarcon365&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A2540&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" width="48%" />
-
-</div>
+> ⚠️ Os cards de estatísticas do GitHub (`github-readme-stats.vercel.app`) foram removidos porque a instância pública do serviço está com o deploy pausado pelo mantenedor (retornando `503 DEPLOYMENT_PAUSED`) — não é um problema no seu perfil. Veja a nota no final deste README sobre como restaurar isso hospedando sua própria instância.
 
 <br/>
 
 ## `06` // CONTRIBUTION_MATRIX
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasAlarcon365&bg_color=0A2540&color=2563EB&line=2563EB&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-
 </div>
+
+> ⚠️ O gráfico de atividade (`github-readme-activity-graph.vercel.app`) também foi removido: a instância pública está com o deploy pausado pelo mantenedor. O streak acima é do serviço `demolab.com`, que está no ar normalmente.
 
 <br/>
 
 ## `07` // CONNECT
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/lucasalarcon" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
@@ -144,7 +131,6 @@ Outros projetos privados desenvolvidos na Adaga Digital:
 <a href="mailto:lucasalarcone7@gmail.com">
 <img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
-
 </div>
 
 <br/>
