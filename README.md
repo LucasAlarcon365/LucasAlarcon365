@@ -161,7 +161,7 @@ Outros projetos em que atuo na Adaga Digital, também privados — listados como
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="70%" />
 
 <br/><br/>
 
