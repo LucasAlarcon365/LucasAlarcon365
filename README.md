@@ -89,24 +89,9 @@
 
 ## `03` // TERMINAL
 
-```bash
-> booting developer.system...
-
-[ OK ] lucas.dev profile loaded
-[ OK ] backend modules loaded    (PHP · Python · Slim · Doctrine ORM)
-[ OK ] frontend modules loaded   (React · Next.js · Vue 3 · Quasar)
-[ OK ] mobile modules loaded     (Flutter)
-[ OK ] cloud modules loaded      (AWS Lambda · Serverless)
-
-ROLE        : Full Stack Developer
-COMPANY     : Adaga Digital
-STACK       : PHP · Python · React · Next.js · Vue · Flutter
-BUILDING    : BrandsCard (plataforma de cartão virtual / BaaS)
-STUDYING    : AWS Lambda & Serverless · React/Next.js · PHP avançado
-STATUS      : ONLINE
-
-> awaiting next challenge... █
-```
+<div align="center">
+<img src="./assets/terminal.svg" alt="Terminal" width="100%" />
+</div>
 
 <br/>
 
