@@ -103,21 +103,12 @@ Outros projetos privados desenvolvidos na Adaga Digital:
 
 <br/>
 
-## `05` // SYSTEM_METRICS
 
-> ⚠️ Os cards de estatísticas do GitHub (`github-readme-stats.vercel.app`) foram removidos porque a instância pública do serviço está com o deploy pausado pelo mantenedor (retornando `503 DEPLOYMENT_PAUSED`) — não é um problema no seu perfil. Veja a nota no final deste README sobre como restaurar isso hospedando sua própria instância.
-
-<br/>
-
-## `06` // CONTRIBUTION_MATRIX
+## `05` // CONTRIBUTION_MATRIX
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="70%" />
 </div>
-
-> ⚠️ O gráfico de atividade (`github-readme-activity-graph.vercel.app`) também foi removido: a instância pública está com o deploy pausado pelo mantenedor. O streak acima é do serviço `demolab.com`, que está no ar normalmente.
-
-<br/>
 
 ## `07` // CONNECT
 
