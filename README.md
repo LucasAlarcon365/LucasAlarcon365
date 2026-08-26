@@ -22,7 +22,6 @@
 | **STUDYING** | AWS Lambda & Serverless · PHP avançado · React/Next.js |
 | **BACKGROUND** | RPA (Automation Anywhere) · Suporte técnico & infraestrutura |
 
-> *"Resolver problemas complexos com soluções simples e eficientes."*
 
 <br/>
 
@@ -40,9 +39,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0A2540&height=4&section=footer" alt="Footer Line" width="100%"/>
-</div>
+</div> -->
 
 ## `02` // TECH_STACK
 
