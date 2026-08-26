@@ -13,6 +13,18 @@
 
 ## `01` // IDENTITY
 
+<div align="center">
+<a href="https://www.linkedin.com/in/lucasalarcon" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://github.com/LucasAlarcon365" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-1E3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:lucasalarcone7@gmail.com">
+<img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+</div>
+
 | Campo | Descrição |
 | :--- | :--- |
 | **ROLE** | Full Stack Developer |
@@ -25,7 +37,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://www.linkedin.com/in/lucasalarcon" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
@@ -35,7 +47,7 @@
 <a href="mailto:lucasalarcone7@gmail.com">
 <img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
-</div>
+</div> -->
 
 <br/>
 
