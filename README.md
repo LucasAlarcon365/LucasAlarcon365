@@ -15,34 +15,34 @@
 
 ## `01` // IDENTITY
 
-```typescript
-const developer = {
-  name: "Lucas Alarcon",
-  role: "Full Stack Developer",
-  location: "Sorocaba, SP - Brasil",
-  company: "Adaga Digital",
+<table>
+<tr>
+<td width="160"><img src="https://img.shields.io/badge/ROLE-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>Full Stack Developer</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/COMPANY-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>Adaga Digital</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/LOCATION-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>Sorocaba, SP — Brasil</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/BUILDING-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>BrandsCard — plataforma de cartão virtual (BaaS)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/STUDYING-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>AWS Lambda &amp; Serverless · PHP avançado · React/Next.js</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/BACKGROUND-1E3A5F?style=flat-square&labelColor=0A2540" width="160"/></td>
+<td>RPA (Automation Anywhere) · Suporte técnico &amp; infraestrutura</td>
+</tr>
+</table>
 
-  stack: [
-    "PHP (Slim Framework, Doctrine ORM)",
-    "Python",
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Vue 3 + Quasar",
-    "Flutter",
-  ],
-
-  building: "BrandsCard — plataforma de cartão virtual (BaaS)",
-  studying: [
-    "AWS Lambda / arquitetura serverless",
-    "PHP avançado & Doctrine ORM",
-    "Ecossistema React / Next.js",
-  ],
-
-  background: ["RPA (Automation Anywhere)", "Suporte técnico & infraestrutura"],
-  mindset: "Resolver problemas complexos com soluções simples e eficientes.",
-};
-```
+> *"Resolver problemas complexos com soluções simples e eficientes."*
 
 <br/>
 
