@@ -119,21 +119,9 @@ API REST para gestão de transações por cartão virtual (BaaS — banking as a
 <img src="https://img.shields.io/badge/Vue_3_+_Quasar-1E3A5F?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue 3 + Quasar" />
 <img src="https://img.shields.io/badge/Flutter-1E3A5F?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
 
-> 🔒 **Nota:** Repositório privado — código proprietário da Adaga Digital. O projeto é apresentado como experiência profissional.
-
 <br/>
 
-## `04` // PROJECT_ARCHIVE
-
-Outros projetos privados desenvolvidos na Adaga Digital:
-
-* **Connectify:** Backend serverless em PHP (Slim + Doctrine, AWS Lambda) e frontend em Next.js 15, React, TypeScript e Tailwind CSS.
-* **CreditService:** Sistema de consulta de crédito com dashboard administrativo em Next.js 15, TypeScript e Ant Design, com backend serverless em PHP.
-
-<br/>
-
-
-## `05` // CONTRIBUTION_MATRIX
+## `04` // CONTRIBUTION_MATRIX
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="70%" />
