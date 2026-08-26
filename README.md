@@ -26,6 +26,24 @@
 
 <br/>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/lucasalarcon" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://github.com/LucasAlarcon365" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-1E3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:lucasalarcone7@gmail.com">
+<img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0A2540&height=4&section=footer" alt="Footer Line" width="100%"/>
+</div>
+
 ## `02` // TECH_STACK
 
 **Front-end**
@@ -110,22 +128,6 @@ Outros projetos privados desenvolvidos na Adaga Digital:
 <img src="https://streak-stats.demolab.com/?user=LucasAlarcon365&hide_border=true&background=0A2540&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" width="70%" />
 </div>
 
-## `07` // CONNECT
 
-<div align="center">
-<a href="https://www.linkedin.com/in/lucasalarcon" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="https://github.com/LucasAlarcon365" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-1E3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:lucasalarcone7@gmail.com">
-<img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-</div>
 
-<br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0A2540&height=4&section=footer" alt="Footer Line" width="100%"/>
-</div>
